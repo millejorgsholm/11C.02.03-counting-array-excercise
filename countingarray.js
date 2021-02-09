@@ -14,7 +14,7 @@ function theArrayCounter() {
 
   //Make sure that the array can't contain more than 9 items
   if (counter > 9) {
-    //If array contains more than 9 items it'll remove the last item, which makes the array shoter. The pop method is used
+    //If array contains more than 9 items it'll remove the last item, which makes the array shorter. The pop method is used
     arr.pop(arr);
   }
 
